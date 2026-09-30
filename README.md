@@ -292,7 +292,7 @@ The collected job postings are then stored in a structured dataset.
 
 ### 🌐 NaukriGulf Job Search
 
-![Link](https://www.naukrigulf.com/)
+![Sketching](https://github.com/mohamed-elmisery/Selinum-Wep-Scrabing-project/blob/7addf94145937384d3b4a5150e5da82b4c72115e/Screenshot%202026-09-30%20102837.png)
 
 ### 📊 Collected Dataset
 
